@@ -1,2 +1,2 @@
 # grpc-stream-categories-sample
-(Go Lang Backend) gRPC sample requests with streams
+(GoLang Backend) gRPC sample requests with streams
